@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-135" alt="dev-135" /></a> </p>
 
-- 🔭 I’m currently working on **PYTHON**
+- 🔭 I’m currently working on **CSS**
 
 - 📫 How to reach me **banduladevendra006@gmail.com**
 
